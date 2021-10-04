@@ -1,3 +1,6 @@
+/* -------------
+  HEADER STYLE
+----------------*/
 .header{
     background-image: linear-gradient(rgba(255, 255, 255, 0.493), rgba(255, 255, 255, 0.493)), url("https://sm.mashable.com/t/mashable_pk/photo/default/education_g7zr.1248.jpg");
     background-repeat: no-repeat;
@@ -11,7 +14,7 @@
     color: white;
     text-align: center;
 }
-.header-contianer span{
+.common-color{
     color: #ff697c;
 }
 .header-contianer h1{
@@ -33,6 +36,9 @@
     background-color: #45567c;
     color: #fff;
 }
+/* -------------
+  OUR COURSES
+----------------*/
 .view-more{
     color: #ff697c;
     text-decoration: none;
@@ -41,4 +47,15 @@
 .our-courses{
     text-align: center;
     margin: 30px 0;
+}
+/* -------------
+  WELCOME
+----------------*/
+.welcome-border{
+   color: #ff697c;
+}
+
+.whyus-icon{
+    color: #ff697c;
+    font-size: 40px;
 }

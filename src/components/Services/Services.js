@@ -7,8 +7,12 @@ const Services = () => {
     const [services] = useServices();
     console.log(services.slice(0, 4))
     return (
+
         <Container style={{ marginTop: '20px' }}>
-            <h1 style={{ textAlign: 'center', margin: '15px' }}>Our Course</h1>
+            {/* -----------------
+                    SERVICES
+                ------------------ */}
+            <h1 style={{ textAlign: 'center', margin: '15px' }}>Our <span className="common-color">Courses</span></h1>
             <Row xs={1} md={3} className="g-4">
                 {
                     services.map(service => <Service

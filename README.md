@@ -1,18 +1,11 @@
-# Getting Started with Create React App
+# Education Website
+## Super Learning
+https://lucid-noyce-1ea5db.netlify.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### aim of this website is:
+1> Provide some education service
+2> Make the people as a skilled person
+3> Earn trust and give best service 
 
 
 
