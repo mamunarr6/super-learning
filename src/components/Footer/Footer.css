@@ -1,0 +1,11 @@
+.footer{
+    background-color: #45567c;
+}
+.footer-container{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-container h6{
+    color: white;
+    padding: 20px 0px ;
+}

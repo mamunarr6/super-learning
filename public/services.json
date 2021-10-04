@@ -1,0 +1,92 @@
+[
+    {
+        "id": 101,
+        "course_name": "Basic English",
+        "course_detail": "Learn basic English for everyday situations and improve your listening skills with this online English language course.This free online 4-week course will help you learn basic English skills. It will give you confidence in everyday situations and help you improve your listening skills.",
+        "img": "https://user-assets.sharetribe.com/images/listing_images/images/3972230/big/british-english-language-learning-class-vector-26486109.jpg?1615831998",
+        "rating": 5,
+        "view": 400,
+        "duration": 2
+    },
+    {
+        "id": 102,
+        "course_name": "Intermediate English",
+        "course_detail": "Develop your English for use in different everyday situations and build more confidence in your listening skills.This free online 4-week course will help you learn inter English skills. It will give you confidence in everyday situations and help you improve your listening skills.",
+        "img": "https://heritageinstitute.in/wp-content/uploads/2019/01/Intermediate-English-1.png",
+        "rating": 4.5,
+        "view": 395,
+        "duration": 3
+    },
+    {
+        "id": 103,
+        "course_name": "Advanced English",
+        "course_detail": "Develop your English for use in different everyday situations and build more confidence in your listening skills.This free online 4-week course will help you learn advance English skills. It will give you confidence in everyday situations and help you improve your listening skills.",
+        "img": "https://www.ambrits.in/wp-content/uploads/2020/01/Advance-English-1024x729.jpg",
+        "rating": 4.5,
+        "view": 530,
+        "duration": 6
+    },
+    {
+        "id": 104,
+        "course_name": "Preparing for University",
+        "course_detail": "Build the academic skills you need for learning at university and ease your transition from school learning to higher education.You’ll hear from university lecturers on what they value in students and get advice on the more difficult aspects of learning at university.",
+        "img": "https://www.indoindians.com/wp-content/uploads/2018/05/University-Admission-Plan-Prepare-Ahead-Tips-for-Success-768x441.jpg",
+        "rating": 4,
+        "view": 320,
+        "duration": 3
+    },
+    {
+        "id": 105,
+        "course_name": "IELTS Complete Preparation",
+        "course_detail": "Take IELTS preparation at home, at your own time. In this course – you will master all the subject matters of IELTS General and develop a rock-solid strategy on how to maximize score in the real exam.",
+        "img": "https://www.smarttalk.in/wp-content/uploads/2019/06/How-Much-Time-Does-It-Take-To-Prepare-For-IELTS.jpg",
+        "rating": 5,
+        "view": 770,
+        "duration": 3
+    },
+    {
+        "id": 106,
+        "course_name": "Digital Discovery",
+        "course_detail": "Achieve your personal goals online with improved digital skills and confidence.The course will allow you to examine and collate your personal goals for improving digital literacy using a quiz, a discussion and a reflection, and will share your experiences with other people on a similar journey.",
+        "img": "https://www.cmich.edu/colleges/cam/JRN/PublishingImages/digital%20discovery%20wordmark.jpg",
+        "rating": 5,
+        "view": 250,
+        "duration": 2
+    },
+    {
+        "id": 107,
+        "course_name": "Introduction to Studying Law",
+        "course_detail": "Learn how to read critically and develop an academic argument in the field of law and prepare for studying it at university.You’ll learn how to read critically, make notes and develop an academic argument based on a contemporary current affairs issue.",
+        "img": "https://abovethelaw.com/uploads/sites/3/2019/02/Pioneers.jpg",
+        "rating": 5,
+        "view": 450,
+        "duration": 5
+    },
+    {
+        "id": 108,
+        "course_name": "How to Get A Graduate Job",
+        "course_detail": "Make your graduate job search easier and land the graduate job you want with help from the UK's leading graduate coaching company.With employers seeking candidates who can prove their employability skills, you’ll learn how to get workplace-ready, so that you can land the job you really want.",
+        "img": "https://www.ctvnews.ca/polopoly_fs/1.1201101.1363646296!/httpImage/image.jpg_gen/derivatives/landscape_960/image.jpg",
+        "rating": 5,
+        "view": 800,
+        "duration": 2
+    },
+    {
+        "id": 109,
+        "course_name": "How to Learn Online",
+        "course_detail": "Explore the benefits of online learning and discover how to successfully learn online.This 2-week course draws on the expertise of The Open University – a global leader in online learning. If you want to become a pro at studying online, try this course and explore the wide-ranging benefits for online learners.",
+        "img": "https://www.northeastern.edu/graduate/blog/wp-content/uploads/2016/08/Online-Learning-Hero-1.jpg",
+        "rating": 4,
+        "view": 300,
+        "duration": 2
+    },
+    {
+        "id": 110,
+        "course_name": "Digital Skills",
+        "course_detail": "Improve your digital skills for study, life and work, and learn how to navigate the web effectively and safely.On this course, you’ll learn about the digital technologies you can use to make your life, work and study easier.",
+        "img": "https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2F60d37517b23d.jpg?ar=16%3A9&auto=format&cs=strip&fit=crop&h=380&ixlib=php-3.3.0&w=535&s=1175c7aad114b2a3b67ed40692cdb7f7",
+        "rating": 5,
+        "view": 370,
+        "duration": 4
+    }
+]

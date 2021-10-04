@@ -1,0 +1,17 @@
+.main-header{
+   background-color: #ff697c;
+}
+.nav-container{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+.sp-learning{
+    color: white !important;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+}
+.nav-link{
+    color: white !important;
+    text-decoration: none;
+    margin-left: 5px;
+}
